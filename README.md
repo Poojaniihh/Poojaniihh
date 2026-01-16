@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Poojani Hirunima 👋  
 
-<!--
-**Poojaniihh/Poojaniihh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Developer | 🚀 Tech Learner  
 
-Here are some ideas to get you started:
+I'm a motivated student from Sri Lanka who loves building real-world projects, learning modern technologies, and improving every day — both in tech and life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me  
+- 🎯 Interested in **Backend Development, Java, Spring Boot, and APIs**
+- 📚 Studied **Mathematics, Physics & ICT**
+- 💡 Currently learning **Full-Stack Development & Software Engineering**
+- 🌱 Goal: Become a **skilled software engineer**
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Tools:**  
+- Java | Python | SQL | JavaScript  
+- Spring Boot | FastAPI | Angular  
+- Git | GitHub | MySQL | H2 | REST APIs  
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
