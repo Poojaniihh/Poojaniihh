@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+Developer;Backend+Engineer+in+Progress;Spring+Boot+%7C+Java+%7C+APIs;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+Developer;AI/ML+Engineer+in+Progress;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 🎓 Student from Sri Lanka  
 💻 Backend Developer in progress  
 🚀 Passionate about building real-world applications  
-🌱 Currently learning **Spring Boot, APIs, Angular & Full-Stack Development**  
+🌱 Currently learning **Flutter, AI/ML, Angular & Full-Stack Development**  
  
 ---
 
@@ -32,15 +32,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
- 
----
 
 ## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojaniihh&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaniihh&theme=tokyonight" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poojaniihh&theme=tokyo-night" />
