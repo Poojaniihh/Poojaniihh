@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+Developer;AI/ML+Engineer+in+Progress;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=11120d&center=true&vCenter=true&width=600&lines=Developer+Student;AI/ML+Engineer+in+Progress;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 🌟 About Me  
 🎓 Student from Sri Lanka  
-💻 Backend Developer in progress  
+💻 Developer in progress  
 🚀 Passionate about building real-world applications  
 🌱 Currently learning **Flutter, AI/ML, Angular & Full-Stack Development**  
  
