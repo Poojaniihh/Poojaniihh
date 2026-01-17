@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=11120d&center=true&vCenter=true&width=600&lines=Developer+Student;AI/ML+Engineer+in+Progress;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6C3BAA&center=true&vCenter=true&width=600&lines=Developer+Student;AI/ML+Engineer+in+Progress;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
