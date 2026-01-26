@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Poojani Hirunima  
+  Hi 👋🏼, I'm Poojani Hirunima  
 </h1>
 
 <p align="center">
