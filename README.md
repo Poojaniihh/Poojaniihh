@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me  
-🎓 Student from Sri Lanka  
+🎓 Based on Sri Lanka  
 💻 Developer in progress  
 🚀 Passionate about building real-world applications  
 🌱 Currently learning **Flutter, AI/ML, Angular & Full-Stack Development**  
