@@ -55,7 +55,7 @@
 </p>
 
 
-📈 Contribution Activity
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poojaniihh&theme=tokyo-night" />
 </p>
