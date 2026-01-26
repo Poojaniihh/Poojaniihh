@@ -50,11 +50,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Poojaniihh&show_icons=true&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaniihh&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
