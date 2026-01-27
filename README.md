@@ -9,9 +9,9 @@
 ---
 
 ## 🌟 About Me  
-🎓 Based on Sri Lanka  
+🎓 Based on Sri Lanka
 🚀 Passionate about building real-world applications
-🎯 Interested in AI systems, and aerospace & drone technologies 
+🎯 Interested in AI systems, and aerospace & drone technologies
 🌱 Currently learning **Flutter, AI/ML, Angular & Full-Stack Development**  
  
 ---
