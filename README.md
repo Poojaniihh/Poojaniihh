@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaniihh&layout=compact&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Poojaniihh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Poojaniihh&show_icons=true" />
 </p>
 
 
