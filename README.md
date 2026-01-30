@@ -49,8 +49,9 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaniihh&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaniihh&theme=tokyonight" width="48%" />
  </p>
 
 
