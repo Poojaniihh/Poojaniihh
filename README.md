@@ -49,10 +49,9 @@
 
 
 ## 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaniihh&layout=compact&theme=tokyonight" width="48%" />
-  ![Profile Views](https://komarev.com/ghpvc/?username=Poojaniihh)
-</p>
+ </p>
 
 
 ## 📈 Contribution Activity
