@@ -63,4 +63,4 @@
 ---
 
 "In God we trust. All others must bring data."
-- W. Edwards Demming
+   - W. Edwards Demming
