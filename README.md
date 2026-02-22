@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Future AI Engineer | Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=64ffda&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;Future+Aerospace+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=64ffda&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;" />
 </p>
 
 ---
@@ -41,13 +41,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojaniihh&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaniihh&theme=tokyonight&hide_border=true" width="48%">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaniihh&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaniihh&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
+</p> -->
 
 ---
 
