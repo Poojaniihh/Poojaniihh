@@ -1,69 +1,80 @@
-<h1 align="center">
-  Hi 👋🏼, I'm Poojani Hirunima  
-</h1>
+<h1 align="center">Hi 👋🏼, I'm Poojani Hirunima</h1>
+<h3 align="center">🚀 Future AI Engineer | Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4078c0&center=true&vCenter=true&width=600&lines=Developer+Student;AI/ML+Engineer+in+Progress;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4078C0&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;Future+Aerospace+Innovator" />
 </p>
 
 ---
 
-## 🌟 About Me  
-🎓 Based in Sri Lanka  
-🚀 Passionate about building real-world applications  
-🎯 Interested in **AI systems, aerospace & drone technologies**  
-🌱 Currently learning **Flutter, AI/ML, Angular & Full-Stack Development**  
- 
----
-
-## 🛠️ Tech Stack  
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-### AI / ML & LLM Tools
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6A5ACD?style=for-the-badge&logo=graphql&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0EAD69?style=for-the-badge&logo=pinecone&logoColor=white)
-
+## 🌟 About Me
+🎓 Student from **Sri Lanka**  
+💡 Passionate about solving real-world problems with technology  
+🧠 Interested in **AI Systems • Aerospace • Drone Tech**  
+🌱 Currently learning **Flutter • Machine Learning • Angular • Full-Stack Dev**  
+⚡ Fun fact: *I love building things that actually work in real life*
 
 ---
 
+## 🧰 Tech Arsenal
 
-## 📊 GitHub Stats
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=YPoojaniihh&show_icons=true&theme=tokyonight" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaniihh&theme=tokyonight" width="48%" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaniihh&layout=compact&theme=tokyonight" width="48%" />
-  </p>
-  
+### 👩‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,mysql" />
+</p>
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poojaniihh&theme=tokyo-night" />
+### ⚙️ Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,angular,git,mongodb" />
+</p>
+
+### 🤖 AI / ML Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI-purple?style=for-the-badge">
 </p>
 
 ---
 
-"In God we trust. All others must bring data."
-   - W. Edwards Demming
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YPoojaniihh&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojaniihh&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaniihh&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poojaniihh&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Current Focus
+✔ Building real-world projects  
+✔ Strengthening DSA & system design  
+✔ Learning AI engineering workflows  
+✔ Exploring aerospace technology  
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
+
+---
+
+<p align="center">
+✨ <i>"In God we trust. All others must bring data."</i> — W. Edwards Deming
+</p>
