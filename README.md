@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Future AI Engineer | Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;Future+Aerospace+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=64ffda&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;Future+Aerospace+Innovator" />
 </p>
 
 ---
