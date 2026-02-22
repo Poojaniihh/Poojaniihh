@@ -12,7 +12,7 @@
 💡 Passionate about solving real-world problems with technology  
 🧠 Interested in **AI Systems • Aerospace • Drone Tech**  
 🌱 Currently learning **Flutter • Machine Learning • Angular • Full-Stack Dev**  
-⚡ Fun fact: *I love building things that actually work in real life*
+⚡ *love to build things that actually work in real life*
 
 ---
 
