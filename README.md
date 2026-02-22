@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Future AI Engineer | Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4078C0&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;Future+Aerospace+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;Future+Aerospace+Innovator" />
 </p>
 
 ---
@@ -66,15 +66,6 @@
 
 ---
 
-## 🤝 Connect With Me
 <p align="center">
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
-</p>
-
----
-
-<p align="center">
-✨ <i>"In God we trust. All others must bring data."</i> — W. Edwards Deming
+ <i>"In God we trust. All others must bring data."</i> — W. Edwards Deming
 </p>
