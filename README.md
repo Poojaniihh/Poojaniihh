@@ -30,12 +30,10 @@
 
 ### 🤖 AI / ML Stack
 <p>
-<<p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
 </p>
 
 ---
