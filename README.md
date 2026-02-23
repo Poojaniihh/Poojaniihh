@@ -10,7 +10,7 @@
 ## 🌟 About Me
 🎓 Student from **Sri Lanka**  
 💡 Passionate about solving real-world problems with technology  
-🧠 Interested in **AI Systems • Aerospace • Drone Tech**  
+🧠 Interested in **AI Systems • Drone Tech**  
 🌱 Currently learning **Flutter • Machine Learning • Angular • Full-Stack Dev**  
 ⚡ *love to build things that actually work in real life*
 
