@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋🏼, I'm Poojani Hirunima</h1>
+<h1 align="center">Hi, I'm Poojani Hirunima</h1>
 
-## 🌟 About Me
+## About Me
  Student from **Sri Lanka**  
  Passionate about solving real-world problems with technology  
  Interested in **AI Systems • Drone Tech**  
