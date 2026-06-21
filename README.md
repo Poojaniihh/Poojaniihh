@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋🏼, I'm Poojani Hirunima</h1>
-<h3 align="center">🚀 Future AI Engineer | Developer | Tech Explorer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=64ffda&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full-Stack+Developer;Tech+Enthusiast;" />
-</p>
 
 ---
 
 ## 🌟 About Me
-🎓 Student from **Sri Lanka**  
-💡 Passionate about solving real-world problems with technology  
-🧠 Interested in **AI Systems • Drone Tech**  
-🌱 Currently learning **Flutter • Machine Learning • Angular • Full-Stack Dev**  
-⚡ *love to build things that actually work in real life*
+ Student from **Sri Lanka**  
+ Passionate about solving real-world problems with technology  
+ Interested in **AI Systems • Drone Tech**  
+ Currently learning **Flutter • Machine Learning • Angular • Full-Stack Dev**  
+ *love to build things that actually work in real life*
 
 ---
 
