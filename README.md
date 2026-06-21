@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Poojani Hirunima</h1>
 
----
-
 ## 🌟 About Me
  Student from **Sri Lanka**  
  Passionate about solving real-world problems with technology  
