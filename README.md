@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Poojani Hirunima</h1>
+<h1 align="center">hey, I'm Poojani Hirunima</h1>
 
 ## About Me
  Student from **Sri Lanka**  
