@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Poojani Hirunima 👋</h1>
-<h3 align="center">Building things that actually work in real life.</h3>
 
 ---
 
