@@ -53,10 +53,10 @@
 
 ## 🧠 Current Focus
 
-✔ Building real-world, client-facing projects
-✔ Strengthening DSA & system design
-✔ Learning AI engineering workflows
-✔ Exploring aerospace / drone technology
+- ✔ Building real-world, client-facing projects
+- ✔ Strengthening DSA & system design
+- ✔ Learning AI engineering workflows
+- ✔ Exploring aerospace / drone technology
 
 ---
 
