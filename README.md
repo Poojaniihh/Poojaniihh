@@ -1,15 +1,15 @@
-<h1 align="center">Hey, I'm Poojani Hirunima 👋</h1>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 First-year **Computer Science** undergraduate 
-- 📍 Based in Boralesgamuwa, Sri Lanka
-- 💼 Web & mobile developer — shipping real, client-facing applications, not just tutorials
-- 🧠 Interested in **AI Systems** & **Drone Tech**
-- 🌱 Currently deepening my skills in **Flutter**, **Machine Learning**, **Angular**, and **Full-Stack Dev**
-- 🌐 Also into bilingual (English/Sinhala) technical writing and content
+- First-year **Computer Science** undergraduate 
+- Based in Boralesgamuwa, Sri Lanka
+- Web & mobile developer — shipping real, client-facing applications, not just tutorials
+- Interested in **AI Systems** & **Drone Tech**
+- Currently deepening my skills in **Flutter**, **Machine Learning**, **Angular**, and **Full-Stack Dev**
+- Also into bilingual (English/Sinhala) technical writing and content
 
 ---
 
@@ -53,10 +53,10 @@
 
 ## 🧠 Current Focus
 
-- ✔ Building real-world, client-facing projects
-- ✔ Strengthening DSA & system design
-- ✔ Learning AI engineering workflows
-- ✔ Exploring aerospace / drone technology
+- Building real-world, client-facing projects
+- Strengthening DSA & system design
+- Learning AI engineering workflows
+- Exploring aerospace / drone technology
 
 ---
 
