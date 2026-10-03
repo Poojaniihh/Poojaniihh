@@ -5,7 +5,7 @@
 ## 👩‍💻 About Me
 
 - First-year **Computer Science** undergraduate 
-- Based in Boralesgamuwa, Sri Lanka
+- Based in Sri Lanka
 - Web & mobile developer — shipping real, client-facing applications, not just tutorials
 - Interested in **AI Systems** & **Drone Tech**
 - Currently deepening my skills in **Flutter**, **Machine Learning**, **Angular**, and **Full-Stack Dev**
